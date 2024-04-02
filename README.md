@@ -18,6 +18,8 @@ CHALLENGES: One common hurdle in machine learning projects, including those rela
 SOLUTIONS: To overcome this, various resampling techniques can be employed. Oversampling involves creating synthetic instances of the minority class, while undersampling randomly removes instances from the majority class. Additionally, more advanced methods like SMOTE (Synthetic Minority Over-sampling Technique) can be used to generate synthetic examples of the minority class. Careful consideration and experimentation with different resampling approaches are crucial to finding the most effective strategy for the specific machine learning project.
 
 IMAGE CLASSIFICATION:
+
+
 ![IMO1](https://github.com/ABHISHROYZZZ/INTEL-AI-HACKATHON/assets/146514925/9f4e0412-2782-4d86-882c-d821b4f7e306)
 ![IMO 2](https://github.com/ABHISHROYZZZ/INTEL-AI-HACKATHON/assets/146514925/95afeffc-e98c-47d5-b70f-e1c44dfdcd7c)
 
